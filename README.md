@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Gade</h1>
-<h3 align="center">🚀 Aspiring Computer Engineer | 🧠 Machine Learning & Cyber Security Enthusiast | ☁️ Cloud & App Developer.</h3>
+<h3 align="center">Computer Engineer | 🧠 Machine Learning & Cyber Security Enthusiast | ☁️ Cloud & App Developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/prasad_gade05" target="blank"><img src="https://img.shields.io/twitter/follow/prasad_gade05?logo=twitter&style=for-the-badge" alt="prasad_gade05" /></a> </p>
 
@@ -10,7 +10,7 @@
 <a href="https://instagram.com/prasad_gade05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_gade05" height="30" width="40" /></a>
 </p>
 
-<p> I'm an aspiring computer engineer with a passion for solving complex problems using modern technologies. I’m deeply interested in application development, both for Android and web platforms. I also have a strong focus on machine learning, cyber security, and cloud computing with experience in AWS. 
+<p> I'm a computer engineer with a passion for solving complex problems using modern technologies. I’m deeply interested in application development, both for Android and web platforms. I also have a strong focus on machine learning, cyber security, and cloud computing with experience in AWS. 
 
 For the majority of my personal projects, I've relied heavily on Python, JavaScript, PHP, and Java as primary development languages, along with databases such as MySQL, SQLite and Firebase.
 
