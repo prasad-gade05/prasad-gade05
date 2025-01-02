@@ -14,7 +14,7 @@
 
 For the majority of my personal projects, I've relied heavily on Python, JavaScript, PHP, and Java as primary development languages, along with databases such as MySQL, SQLite and Firebase.
 
-I enjoy building innovative solutions that make an impact. I find joy in proces of creating functional and user friendly solutions using my creativity and problem solving skills.I am well-versed in programming principles, and best software design practices, and I strive to write clean, efficient, and maintainable code.
+I enjoy building innovative solutions that make an impact. I find joy in process of creating functional and user friendly solutions using my creativity and problem solving skills.I am well-versed in programming principles, and best software design practices, and I strive to write clean, efficient, and maintainable code.
 
 I'm always open to collaborating on exciting projects, especially in the areas of Android development, web development, and machine learning. Let’s build something amazing!
 </p>
