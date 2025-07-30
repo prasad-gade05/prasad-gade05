@@ -22,11 +22,11 @@ I work across the entire data pipeline from data cleaning and transformation wit
 
 Project Highlights:
 
-Developed a celestial classifier with 99%+ accuracy using Random Forest
+🤖 Developed a celestial classifier with 99%+ accuracy using Random Forest
 
-Built a donation management platform with real-time tracking and LLM-driven matchmaking
+🌐 Built a donation management platform with real-time tracking and LLM-driven matchmaking
 
-Created BI dashboards that boosted decision visibility by 70%
+📊 Created BI dashboards that boosted decision visibility by 70%
 
 Tools I regularly use:
 Python, Pandas, Scikit-Learn, SQL, Power BI, React, Firebase, MongoDB, React Native, Android SDK, Java
