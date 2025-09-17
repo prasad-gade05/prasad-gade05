@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prasad Gade</h1>
 <h3 align="center">👨‍💻 Computer Engineer | 📊 Data Analyst | 🧠 Data Science & Business Intelligence | 📱 Cross-Platform App Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-gade05&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-gade05" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-gade05&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-gade05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-gade05" alt="prasad-gade05" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-gade05" alt="prasad-gade05" /></a> </p>-->
 
 <p align="left"> <a href="https://twitter.com/prasad_gade05" target="blank"><img src="https://img.shields.io/twitter/follow/prasad_gade05?logo=twitter&style=for-the-badge" alt="prasad_gade05" /></a> </p>
 
@@ -104,4 +104,4 @@ I'm open to opportunities and collaborations in Data Analytics, Data Science, an
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact" alt="prasad-gade05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasad-gade05&show_icons=true&locale=en" alt="prasad-gade05" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasad-gade05&show_icons=true&locale=en" alt="prasad-gade05" /></p>-->
