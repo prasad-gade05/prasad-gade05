@@ -20,18 +20,6 @@ I'm a Computer Engineer with expertise in Data Analytics, Data Science, and Cros
 
 I work across the entire data pipeline from data cleaning and transformation with Python and SQL, to interactive dashboards in Power BI, to machine learning models for prediction and classification. My portfolio includes projects in business intelligence, ML-based classification, and real-time full-stack platforms.
 
-Project Highlights:
-
-🤖 Developed a celestial classifier with 99%+ accuracy using Random Forest
-
-🌐 Built a donation management platform with real-time tracking and LLM-driven matchmaking
-
-📊 Created BI dashboards that boosted decision visibility by 70%
-
-Tools I regularly use:
-Python, Pandas, Scikit-Learn, SQL, Power BI, React, Firebase, MongoDB, React Native, Android SDK, Java
-Core skills: Data Structures, Algorithms, OOP, DBMS, Operating Systems
-
 I bring a product mindset to every project focusing on code quality, model performance, and user impact. I write clean, maintainable code and follow sound software design principles.
 
 I'm open to opportunities and collaborations in Data Analytics, Data Science, and App Development. Let's build something impactful.
