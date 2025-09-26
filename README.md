@@ -136,3 +136,12 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg)
 
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg">
+</picture>
+</div>
+
+
