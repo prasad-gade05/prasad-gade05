@@ -1,6 +1,10 @@
 <h1 align="center"> I'm Prasad Gade</h1>
 <h3 align="center">Computer Engineer | Data Analyst |  Data Science & Business Intelligence |  Cross-Platform App Developer</h3>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3BC6F7&center=true&vCenter=true&width=600&lines=Computer+Engineer;Data+Analyst;Data+Science+%26+Business+Intelligence;Cross-Platform+App+Developer" alt="Typing SVG" />
+</h3>
+
 <p align="center">
   <a href="https://github.com/prasad-gade05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
