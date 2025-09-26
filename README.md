@@ -1,43 +1,61 @@
-<h1 align="center"> I'm Prasad Gade</h1>
+<h1 align="center"> Hi!,  I'm Prasad Gade</h1>
 <!-- <h3 align="center">Computer Engineer | Data Analyst |  Data Science & Business Intelligence |  Cross-Platform App Developer</h3> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Data+Analyst;Data+Science+%26+Business+Intelligence;Cross+Platform+App+Developer&font=Fira%20Code&center=true&width=1000&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/prasad-gade05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/prasad--gade--" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-    <a href="https://kaggle.com/prasadgade" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://twitter.com/prasad_gade05" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/prasad_gade05" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<div align="center">
+  
+  <!-- Animated Text -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Data+Analyst;Data+Science+%26+Business+Intelligence;Cross+Platform+App+Developer&font=Fira%20Code&center=true&width=1000&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
----
+  <!-- Social Links -->
 
-### About Me
-I'm a **Computer Engineer** with expertise in **Data Analytics, Data Science, and Cross-Platform App Development**. I build scalable, insight-driven solutions that merge data with clean engineering.  
+<!-- Card Body -->
+<div style="border: 2px solid #eaeaea; border-radius: 12px; padding: 20px; max-width: 800px; text-align: left; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
 
-I work across the **entire data pipeline**:  
-- Data cleaning & transformation with **Python & SQL**  
-- Interactive dashboards with **Power BI**  
-- Machine learning models for **prediction & classification**  
+  <!-- About Me Header with Social Icons -->
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <h3 style="margin: 0;">About Me</h3>
+    <div style="display: flex; gap: 10px;">
+      <a href="https://github.com/prasad-gade05" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="25" alt="GitHub"/>
+      </a>
+      <a href="https://linkedin.com/in/prasad--gade--" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="25" alt="LinkedIn"/>
+      </a>
+      <a href="https://kaggle.com/prasadgade" target="_blank">
+        <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="25" alt="Kaggle"/>
+      </a>
+      <a href="https://twitter.com/prasad_gade05" target="_blank">
+        <img src="https://cdn.simpleicons.org/x/000000" width="25" alt="X (Twitter)"/>
+      </a>
+      <a href="https://instagram.com/prasad_gade05" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="25" alt="Instagram"/>
+      </a>
+    </div>
+  </div>
 
-I bring a **product mindset** to every project, focusing on **code quality, model performance, and user impact**. I write **clean, maintainable code** and follow sound software design principles.  
+  <!-- About Me Text -->
+  <p>
+    I'm a <b>Computer Engineer</b> with expertise in <b>Data Analytics, Data Science, and Cross-Platform App Development</b>.  
+    I build scalable, insight-driven solutions that merge data with clean engineering.
+  </p>
+  <p>
+    I work across the <b>entire data pipeline</b>:  
+    <br>• Data cleaning & transformation with <b>Python & SQL</b>  
+    <br>• Interactive dashboards with <b>Power BI</b>  
+    <br>• Machine learning models for <b>prediction & classification</b>  
+  </p>
+  <p>
+    I bring a <b>product mindset</b> to every project, focusing on <b>code quality, model performance, and user impact</b>.<br><br>  
+    Open to opportunities and collaborations in <b>Data Analytics, Data Science, and App Development</b>.
+  </p>
+</div>
 
-Open to opportunities and collaborations in **Data Analytics, Data Science, and App Development**.
+<br>
 
----
+<div style="border: 2px solid #eaeaea; border-radius: 12px; padding: 20px; max-width: 800px; text-align: left; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
 
-### 🛠 Languages & Frameworks
+### Tech Stack
 
 #### Languages
 <p align="left">
@@ -123,8 +141,11 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
   <img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
+</div>
 
----
+<br>
+
+<div style="border: 2px solid #eaeaea; border-radius: 12px; padding: 20px; max-width: 800px; text-align: left; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
 
 ### GitHub Stats
 <p align="center">
