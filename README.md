@@ -132,3 +132,10 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg)
+![Ocean Snake](https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/ocean.gif)
