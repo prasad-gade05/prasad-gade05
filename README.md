@@ -135,10 +135,9 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
   </picture>
 </p>
 
+---
 
-
-
-## GitHub Contribution Snake
+### GitHub Contribution Snake
 
 <div align="left">
 <picture>
@@ -147,5 +146,3 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg">
 </picture>
 </div>
-
-
