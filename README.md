@@ -52,6 +52,8 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
   <img src="https://img.shields.io/badge/assembly%20x86-6E4C13?style=for-the-badge&logoColor=white" alt="Assembly (x86)"/>
 </p>
 
+---
+
 #### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -64,6 +66,8 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
   <img src="https://img.shields.io/badge/recharts-%2320B2AA.svg?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts"/>
   <img src="https://img.shields.io/badge/zustand-%23000000.svg?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand"/>
 </p>
+
+---
 
 #### Data Science / ML
 <p align="left">
