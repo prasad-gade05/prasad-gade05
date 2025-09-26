@@ -23,9 +23,8 @@ I work across the entire data pipeline from data cleaning and transformation wit
 I bring a product mindset to every project focusing on code quality, model performance, and user impact. I write clean, maintainable code and follow sound software design principles.
 
 I'm open to opportunities and collaborations in Data Analytics, Data Science, and App Development. Let's build something impactful.
-
 <h3 align="left">Tech Stack</h3>
-
+<p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -76,6 +75,7 @@ I'm open to opportunities and collaborations in Data Analytics, Data Science, an
   <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact" alt="prasad-gade05" /></p>
 
