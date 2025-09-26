@@ -1,9 +1,7 @@
 <h1 align="center"> I'm Prasad Gade</h1>
 <!-- <h3 align="center">Computer Engineer | Data Analyst |  Data Science & Business Intelligence |  Cross-Platform App Developer</h3> -->
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3BC6F7&center=true&vCenter=true&width=600&lines=Computer+Engineer;Data+Analyst;Data+Science+%26+Business+Intelligence;Cross-Platform+App+Developer" alt="Typing SVG" />
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Data+Analyst;Data+Science+%26+Business+Intelligence;Cross+Platform+App+Developer&font=Fira%20Code&center=true&width=800&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/prasad-gade05" target="_blank">
