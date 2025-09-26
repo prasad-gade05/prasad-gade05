@@ -1,29 +1,45 @@
-<h1 align="center">Hi 👋, I'm Prasad Gade</h1>
-<h3 align="center">👨‍💻 Computer Engineer | 📊 Data Analyst | 🧠 Data Science & Business Intelligence | 📱 Cross-Platform App Developer</h3>
+<h1 align="center"> I'm Prasad Gade</h1>
+<h3 align="center">Computer Engineer | Data Analyst |  Data Science & Business Intelligence |  Cross-Platform App Developer</h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-gade05&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-gade05" /> </p>
+<p align="center">
+<a href="https://github.com/prasad-gade05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+    <a href="https://linkedin.com/in/prasad--gade--" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/prasad_gade05" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/prasad_gade05?logo=twitter&style=for-the-badge" alt="Twitter"/>
+  </a>
+  <a href="https://kaggle.com/prasadgade" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://instagram.com/prasad_gade05" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-gade05" alt="prasad-gade05" /></a> </p>-->
-
-<p align="left"> <a href="https://twitter.com/prasad_gade05" target="blank"><img src="https://img.shields.io/twitter/follow/prasad_gade05?logo=twitter&style=for-the-badge" alt="prasad_gade05" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prasad_gade05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasad_gade05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasad--gade--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad--gade--" height="30" width="40" /></a>
-<a href="https://kaggle.com/prasadgade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prasadgade" height="30" width="40" /></a>
-<a href="https://instagram.com/prasad_gade05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasad_gade05" height="30" width="40" /></a>
 </p>
 
-<p>
-I'm a Computer Engineer with expertise in Data Analytics, Data Science, and Cross-Platform Application Development. I build scalable, insight-driven solutions that merge data with clean engineering.
 
-I work across the entire data pipeline from data cleaning and transformation with Python and SQL, to interactive dashboards in Power BI, to machine learning models for prediction and classification. My portfolio includes projects in business intelligence, ML-based classification, and real-time full-stack platforms.
+---
 
-I bring a product mindset to every project focusing on code quality, model performance, and user impact. I write clean, maintainable code and follow sound software design principles.
+### About Me
+I'm a **Computer Engineer** with expertise in **Data Analytics, Data Science, and Cross-Platform App Development**. I build scalable, insight-driven solutions that merge data with clean engineering.  
 
-I'm open to opportunities and collaborations in Data Analytics, Data Science, and App Development. Let's build something impactful.
-<h3 align="left">Languages</h3>
+I work across the **entire data pipeline**:  
+- Data cleaning & transformation with **Python & SQL**  
+- Interactive dashboards with **Power BI**  
+- Machine learning models for **prediction & classification**  
+
+I bring a **product mindset** to every project, focusing on **code quality, model performance, and user impact**. I write **clean, maintainable code** and follow sound software design principles.  
+
+Open to opportunities and collaborations in **Data Analytics, Data Science, and App Development**.
+
+---
+
+### 🛠 Languages & Frameworks
+
+#### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -38,7 +54,7 @@ I'm open to opportunities and collaborations in Data Analytics, Data Science, an
   <img src="https://img.shields.io/badge/assembly%20x86-6E4C13?style=for-the-badge&logoColor=white" alt="Assembly (x86)"/>
 </p>
 
-<h3 align="left">Frameworks & Libraries</h3>
+#### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -57,7 +73,7 @@ I'm open to opportunities and collaborations in Data Analytics, Data Science, an
   <img src="https://img.shields.io/badge/zustand-%23000000.svg?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand"/>
 </p>
 
-<h3 align="left">Data Science / ML</h3>
+#### Data Science / ML
 <p align="left">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -66,8 +82,11 @@ I'm open to opportunities and collaborations in Data Analytics, Data Science, an
   <img src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 </p>
+</p>
 
-<h3 align="left">Databases</h3>
+---
+
+### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -77,7 +96,9 @@ I'm open to opportunities and collaborations in Data Analytics, Data Science, an
   <img src="https://img.shields.io/badge/microsoft%20sql%20server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
 </p>
 
-<h3 align="left">Cloud & DevOps</h3>
+---
+
+### Cloud & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -86,7 +107,9 @@ I'm open to opportunities and collaborations in Data Analytics, Data Science, an
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<h3 align="left">Developer Tools</h3>
+---
+
+### Developer Tools
 <p align="left">
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
@@ -97,6 +120,9 @@ I'm open to opportunities and collaborations in Data Analytics, Data Science, an
   <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact" alt="prasad-gade05" /></p>
+---
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasad-gade05&show_icons=true&locale=en" alt="prasad-gade05" /></p>-->
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
