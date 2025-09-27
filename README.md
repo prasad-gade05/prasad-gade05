@@ -37,10 +37,10 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 
 ---
 
-### 🛠 Languages & Frameworks
+### Tech Stack
 
 #### Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -57,7 +57,7 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 ---
 
 #### Frameworks & Libraries
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -72,7 +72,7 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 ---
 
 #### Data Science / ML
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/matplotlib-%230079C6.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
@@ -91,7 +91,7 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 ---
 
 ### Databases
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
@@ -103,7 +103,7 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 ---
 
 ### Cloud & DevOps
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -114,7 +114,7 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 ---
 
 ### Developer Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
@@ -139,7 +139,7 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 
 ### GitHub Contribution Snake
 
-<div align="left">
+<div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake.svg">
