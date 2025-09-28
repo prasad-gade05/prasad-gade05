@@ -86,7 +86,6 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
   <img src="https://img.shields.io/badge/hugging%20face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
-</p>
 
 ---
 
