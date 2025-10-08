@@ -88,7 +88,7 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 ---
 
 ### GitHub Stats
-<p align="center">
+<p align="left">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
