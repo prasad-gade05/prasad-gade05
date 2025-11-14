@@ -4,22 +4,29 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Data+Analyst;Data+Science+%26+Business+Intelligence;Cross+Platform+App+Developer&font=Fira%20Code&center=true&width=1000&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
 <p align="center">
+
   <a href="https://github.com/prasad-gade05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
+
   <a href="https://linkedin.com/in/prasad--gade--" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-    <a href="https://kaggle.com/prasadgade" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+
+  <a href="https://kaggle.com/prasadgade" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="48" height="48" alt="Kaggle"/>
   </a>
+
   <a href="https://twitter.com/prasad_gade05" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
   </a>
+
   <a href="https://instagram.com/prasad_gade05" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
+
 </p>
+
 
 ---
 
