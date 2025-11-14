@@ -37,7 +37,8 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 
 ---
 
-### Tech Stack 
+<details>
+ <summary><h3>Tech Stack</h3></summary>
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
 --- | --- |
@@ -48,21 +49,30 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 <samp>Version Control, OS & Hardware</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) |
 <samp>IDEs & Environments</samp> | ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white) ![Eclipse](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
 
+</details>
+
 ---
 
-### GitHub Stats
-<p align="left">
+<details>
+ <summary><h3>GitHub Stats</h3></summary>
+<p align="left" style="display: flex; gap: 10px;">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=prasad-gade05&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=prasad-gade05&theme=default" media="(prefers-color-scheme: light)" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-gade05&theme=default" alt="GitHub Streak" />
   </picture>
 </p>
+</details>
 
 ---
 
-### GitHub Contribution Snake
-
+<details>
+<summary><h3>GitHub Contribution Snake</h3></summary>
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg">
@@ -70,3 +80,4 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg">
 </picture>
 </div>
+</details>
