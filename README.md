@@ -17,6 +17,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="48" height="48" alt="Kaggle"/>
   </a>
 
+  <a href="https://monkeytype.com/profile/prasad_gade05" target="_blank">
+    <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/dark.svg" width="48" height="48" alt="Monkeytype"/>
+  </a>
+
   <a href="https://twitter.com/prasad_gade05" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
   </a>
