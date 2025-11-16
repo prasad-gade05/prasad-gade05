@@ -22,6 +22,10 @@
     <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/dark.svg" width="48"  alt="Monkeytype"/>
   </a>
 
+  <a href="mailto:prasadgade4405@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="32" alt="Gmail"/>
+  </a>
+
   <a href="https://twitter.com/prasad_gade05" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter"  width="32" alt="Twitter"/>
   </a>
