@@ -10,7 +10,7 @@
 </a>
 
 
-  <a href="https://linkedin.com/in/prasad--gade--" target="_blank">
+  <a href="https://www.linkedin.com/in/prasad-gade05/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
   </a>
 
