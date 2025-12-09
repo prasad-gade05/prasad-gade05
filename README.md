@@ -23,7 +23,7 @@
   </a>
 
   <a href="https://prasad-gade05.github.io/Portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/globe.svg" width="32" alt="Website"/>
+  <img src="https://img.icons8.com/ios-filled/50/4ea4f5/globe.png" width="32" alt="Website"/>
   </a>
 
   <a href="mailto:prasadgade4405@gmail.com" target="_blank">
