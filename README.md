@@ -63,9 +63,11 @@
 ---
 
 ### About Me -  [Resume](https://drive.google.com/file/d/134zdT9FaQX6siuHMxnICxBqZrK_R3YXV/view?usp=sharing)
-I'm a **Computer Engineer** with expertise in **Data Analytics, Data Science, and Cross-Platform App Development**. I build scalable, insight-driven solutions that merge data with clean engineering.  
 
-<img align="right" src="./assets/developer.gif" width="420">
+<!-- IMAGE MOVED TO TOP AND CODE CLEANED UP -->
+<img align="right" src="./assets/developer.gif" width="380">
+
+I'm a **Computer Engineer** with expertise in **Data Analytics, Data Science, and Cross-Platform App Development**. I build scalable, insight-driven solutions that merge data with clean engineering.  
 
 I work across the **entire data pipeline**:  
 - Data cleaning & transformation with **Python & SQL**  
@@ -76,8 +78,10 @@ I bring a **product mindset** to every project, focusing on **code quality, mode
 
 Open to opportunities and collaborations in **Data Analytics, Data Science, and App Development**.
 
----
+<!-- THIS LINE FIXES THE OVERFLOW -->
+<br clear="right"/>
 
+---
 <details>
  <summary><h3>Tech Stack</h3></summary>
 
