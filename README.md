@@ -102,13 +102,13 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
  <summary><h3>GitHub Stats</h3></summary>
 <p align="center">
     <picture>
-    <source srcset="https://github-readme-stats-bay-chi-77.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&theme=dark&cache_seconds=60" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats-bay-chi-77.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=true&cache_seconds=60" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats-bay-chi-77.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&theme=default&cache_seconds=60" media="(prefers-color-scheme: light)" />
     <img height="200" src="https://github-readme-stats-bay-chi-77.vercel.app/api/top-langs?username=prasad-gade05&show_icons=true&locale=en&layout=compact&theme=default&cache_seconds=60" alt="Top Languages" />
   </picture>
 
   <picture>
-    <source srcset="https://github-readme-streak-stats-j8aj.vercel.app/?user=prasad-gade05&theme=dark&cache_seconds=60" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats-j8aj.vercel.app/?user=prasad-gade05&background=000000&border=30363d&stroke=ffffff&ring=fe7d37&fire=fe7d37&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&cache_seconds=60" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats-j8aj.vercel.app/?user=prasad-gade05&theme=default&cache_seconds=60" media="(prefers-color-scheme: light)" />
     <img height="200" src="https://github-readme-streak-stats-j8aj.vercel.app/?user=prasad-gade05&theme=default&cache_seconds=60" alt="GitHub Streak" />
 </picture>
