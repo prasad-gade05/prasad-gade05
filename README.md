@@ -1,5 +1,4 @@
 <h1 align="center"> Hi!, I'm Prasad Gade</h1>
-<!-- <h3 align="center">Computer Engineer | Data Analyst |  Data Science & Business Intelligence |  Cross-Platform App Developer</h3> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Data+Analyst;Data+Science+%26+Business+Intelligence;Cross+Platform+App+Developer&font=Fira%20Code&center=true&width=1000&height=100&color=00ff41&vCenter=true&pause=10&size=42)](https://git.io/typing-svg)
 
@@ -8,7 +7,6 @@
   <a href="https://github.com/prasad-gade05" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub"/>
 </a>
-
 
   <a href="https://www.linkedin.com/in/prasad-gade05/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
@@ -40,31 +38,10 @@
 
 </p>
 
-<!-- <p align="center">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-
- <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  
-<a href="https://monkeytype.com/profile/prasad_gade05" target="_blank">
-  <img src="https://img.shields.io/badge/Monkeytype-000000?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype"/>
-</a>
-
-
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-
-</p> -->
-
-
 ---
 
 ### About Me -  [Resume](https://drive.google.com/file/d/134zdT9FaQX6siuHMxnICxBqZrK_R3YXV/view?usp=sharing)
 
-<!-- IMAGE MOVED TO TOP AND CODE CLEANED UP -->
 <img align="right" src="./assets/developer.gif" width="380">
 
 I'm a **Computer Engineer** with expertise in **Data Analytics, Data Science, and Cross-Platform App Development**. I build scalable, insight-driven solutions that merge data with clean engineering.  
@@ -78,7 +55,6 @@ I bring a **product mindset** to every project, focusing on **code quality, mode
 
 Open to opportunities and collaborations in **Data Analytics, Data Science, and App Development**.
 
-<!-- THIS LINE FIXES THE OVERFLOW -->
 <br clear="right"/>
 
 ---
