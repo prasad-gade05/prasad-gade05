@@ -119,12 +119,12 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 ---
 
 <details>
-<summary><h3>GitHub Contribution Snake</h3></summary>
+<summary><h3>GitHub Space Shooter</h3></summary>
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/github-snake-dark.svg">
-</picture>
+  <img
+    src="https://raw.githubusercontent.com/prasad-gade05/prasad-gade05/main/dist/gh-space-shooter.gif"
+    alt="GitHub Space Shooter animation"
+  />
 </div>
 </details>
+
