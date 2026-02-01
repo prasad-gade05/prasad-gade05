@@ -19,8 +19,8 @@
   </a>
 
   <a href="https://monkeytype.com/profile/prasad_gade05" target="_blank">
-    <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/logo-svg/dark.svg" width="48"  alt="Monkeytype"/>
-  </a>
+    <img src="https://cdn.simpleicons.org/monkeytype" width="36" alt="Monkeytype"/>
+</a>
 
   <a href="https://prasad-gade05.github.io/Portfolio/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/4ea4f5/globe.png" width="32" alt="Website"/>
