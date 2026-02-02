@@ -12,6 +12,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
   </a>
 
+  <a href="https://www.reddit.com/user/prasad_gade05/" target="_blank">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="32" alt="Reddit"/>
+  </a>
+
   <a href="https://kaggle.com/prasadgade" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="32"  alt="Kaggle"/>
   </a>
@@ -31,9 +35,7 @@
   <a href="https://twitter.com/prasad_gade05" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter"  width="32" alt="Twitter"/>
   </a>
-  <a href="https://www.reddit.com/user/prasad_gade05/" target="_blank">
-    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="32" alt="Reddit"/>
-  </a>
+  
   <a href="https://instagram.com/prasad_gade05" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"/>
   </a>
