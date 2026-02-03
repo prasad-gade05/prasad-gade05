@@ -5,39 +5,39 @@
 <p align="center">
 
   <a href="https://github.com/prasad-gade05" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub"/>
-</a>
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
   <a href="https://www.linkedin.com/in/prasad-gade05/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
   </a>
 
   <a href="https://www.reddit.com/user/prasad_gade05/" target="_blank">
-    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="32" alt="Reddit"/>
+    <img src="https://img.shields.io/badge/-Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit"/>
   </a>
 
   <a href="https://kaggle.com/prasadgade" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="32"  alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
   </a>
 
   <a href="https://monkeytype.com/profile/prasad_gade05" target="_blank">
-    <img src="https://cdn.simpleicons.org/monkeytype" width="36" alt="Monkeytype"/>
-</a>
+    <img src="https://img.shields.io/badge/-Monkeytype-000?style=for-the-badge&logo=monkeytype&logoColor=E2B93B" alt="Monkeytype"/>
+  </a>
 
   <a href="https://prasad-gade05.github.io/Portfolio/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/4ea4f5/globe.png" width="32" alt="Website"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=4ea4f5" alt="Website"/>
   </a>
 
   <a href="mailto:prasadgade4405@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="32" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
   </a>
 
   <a href="https://twitter.com/prasad_gade05" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter"  width="32" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/>
   </a>
-  
+
   <a href="https://instagram.com/prasad_gade05" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="32" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
   </a>
 
 </p>
