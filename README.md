@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Monkeytype-000?style=for-the-badge&logo=monkeytype&logoColor=E2B93B" alt="Monkeytype"/>
   </a>
 
-  <a href="https://prasad-gade05.github.io/Portfolio/" target="_blank">
+  <a href="https://prasadgade.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=4ea4f5" alt="Website"/>
   </a>
 
