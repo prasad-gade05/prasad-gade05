@@ -1,6 +1,8 @@
-<h1 align="center"> Hi!, I'm Prasad Gade</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineer;Data+Analyst;Data+Science+%26+Business+Intelligence;Cross+Platform+App+Developer&font=Fira%20Code&center=true&width=1000&height=100&color=00ff41&vCenter=true&pause=10&size=42)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://prasadgade.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=4ea4f5" alt="Website"/>
+  </a>
+</p>
 
 <p align="center">
 
@@ -24,9 +26,6 @@
     <img src="https://img.shields.io/badge/-Monkeytype-000?style=for-the-badge&logo=monkeytype&logoColor=E2B93B" alt="Monkeytype"/>
   </a>
 
-  <a href="https://prasadgade.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=4ea4f5" alt="Website"/>
-  </a>
 
   <a href="mailto:prasadgade4405@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
