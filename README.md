@@ -18,33 +18,43 @@
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
   </a>
 
-  <a href="https://www.reddit.com/user/prasad_gade05/" target="_blank">
-    <img src="https://img.shields.io/badge/-Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit"/>
+  <a href="mailto:prasadgade4405@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
   </a>
 
   <a href="https://kaggle.com/prasadgade" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
   </a>
 
-  <a href="https://monkeytype.com/profile/prasad_gade05" target="_blank">
-    <img src="https://img.shields.io/badge/-Monkeytype-000?style=for-the-badge&logo=monkeytype&logoColor=E2B93B" alt="Monkeytype"/>
+  <a href="https://leetcode.com/u/prasad-gade05/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
 
+  <a href="https://huggingface.co/prasad-gade05" target="_blank">
+    <img src="https://img.shields.io/badge/-Hugging%20Face-000?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+  </a>
 
-  <a href="mailto:prasadgade4405@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  <a href="https://share.streamlit.io/user/prasad-gade05" target="_blank">
+    <img src="https://img.shields.io/badge/-Streamlit-000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+  </a>
+
+  <a href="https://monkeytype.com/profile/prasad_gade05" target="_blank">
+    <img src="https://img.shields.io/badge/-Monkeytype-000?style=for-the-badge&logo=monkeytype&logoColor=E2B93B" alt="Monkeytype"/>
   </a>
 
   <a href="https://twitter.com/prasad_gade05" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/>
   </a>
 
+  <a href="https://www.reddit.com/user/prasad_gade05/" target="_blank">
+    <img src="https://img.shields.io/badge/-Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit"/>
+  </a>
+  
   <a href="https://instagram.com/prasad_gade05" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
   </a>
 
 </p>
-
 ---
 
 ### About Me -  [Resume](https://drive.google.com/file/d/134zdT9FaQX6siuHMxnICxBqZrK_R3YXV/view?usp=sharing)
