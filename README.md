@@ -66,7 +66,7 @@ I'm a **Computer Engineer** with expertise in **Data Analytics, Data Science, an
 
 I work across the **entire data pipeline**:  
 - Data cleaning & transformation with **Python & SQL**  
-- Interactive dashboards with **Power BI**  
+- Interactive dashboards with **Power BI** and **Tableau**  
 - Machine learning models for **prediction & classification**  
 
 I bring a **product mindset** to every project, focusing on **code quality, model performance, and user impact**. I write **clean, maintainable code** and follow sound software design principles.  
