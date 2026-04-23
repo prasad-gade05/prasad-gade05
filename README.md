@@ -6,6 +6,9 @@
   <a href="https://prasadgade.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=4ea4f5" alt="Website"/>
   </a>
+  <a href="https://prasadgade.dev/blogs" target="_blank">
+  <img src="https://img.shields.io/badge/-Blogs-000?style=for-the-badge&logo=micro.blog&logoColor=FF8800" alt="Blogs"/>
+</a>
 </p>
 
 <p align="center">
