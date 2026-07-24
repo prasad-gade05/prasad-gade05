@@ -63,7 +63,7 @@
 
 ### About Me -  [Resume](https://drive.google.com/file/d/134zdT9FaQX6siuHMxnICxBqZrK_R3YXV/view?usp=sharing)
 
-
+<img align="right" src="./assets/developer.gif" width="380">
 
 I'm a **Computer Engineer** with expertise in **Data Analytics, Data Science, and Cross-Platform App Development**. I build scalable, insight-driven solutions that merge data with clean engineering.  
 
