@@ -79,7 +79,6 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 <br clear="right"/>
 
 ---
-<details>
  <summary><h3>Tech Stack</h3></summary>
 
 <samp>Tools & Technologies</samp> | <samp>Badge</samp> |
@@ -91,11 +90,9 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
 <samp>Version Control, OS & Hardware</samp> | ![Git](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-linux-000?style=for-the-badge&logo=linux&logoColor=white) ![Arduino](https://img.shields.io/badge/-arduino-000?style=for-the-badge&logo=arduino) |
 <samp>IDEs & Environments</samp> | ![VS Code](https://img.shields.io/badge/-vscode-000?style=for-the-badge&logo=visual-studio-code) ![Vim](https://img.shields.io/badge/-vim-000?style=for-the-badge&logo=vim) ![Eclipse](https://img.shields.io/badge/-eclipse-000?style=for-the-badge&logo=eclipse) ![Android Studio](https://img.shields.io/badge/-android%20studio-000?style=for-the-badge&logo=android-studio) ![IntelliJ IDEA](https://img.shields.io/badge/-intellij%20idea-000?style=for-the-badge&logo=intellij-idea) |
 
-</details>
 
 ---
 
-<details>
 <summary><h3>GitHub Space Shooter</h3></summary>
 <div align="center">
   <img
@@ -103,5 +100,4 @@ Open to opportunities and collaborations in **Data Analytics, Data Science, and 
     alt="GitHub Space Shooter animation"
   />
 </div>
-</details>
 
