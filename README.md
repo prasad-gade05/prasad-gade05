@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
+  <a href="https://gitlab.com/prasad_gade05/" target="_blank">
+  <img src="https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/prasad-gade05/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
   </a>
