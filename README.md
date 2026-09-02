@@ -33,6 +33,10 @@
     <img src="https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
   </a>
 
+  <a href="https://tokscale.ai/u/prasad-gade05" target="_blank">
+    <img src="https://img.shields.io/badge/-Tokscale-000?style=for-the-badge&logo=openai&logoColor=10A37F" alt="Tokscale"/>
+  </a>
+
   <a href="https://leetcode.com/u/prasad-gade05/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
